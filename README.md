@@ -33,4 +33,5 @@ This project demonstrates my SQL skills by analyzing pizza sales data. It includ
 ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/SQL-Sales-Pizza-Project.git
+   git clone https://github.com/Samoju-Madhu/SQL-Pizza-Sales-Project.git
+
